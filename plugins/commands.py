@@ -48,14 +48,14 @@ async def start(client, message):
             InlineKeyboardButton('❇️ Add Me To Your Groups ❇️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('💠 CHANNEL 💠', url='https://t.me/Ms_458'),
-            InlineKeyboardButton('☎️CONTACT ME', url='https://t.me/Ms_458'),
+            InlineKeyboardButton('☎️CONTACT ME', url='https://t.me/MaHi_458'),
             InlineKeyboardButton('💠 UPDATES 💠', url='https://t.me/Ms_458')
             ],[
             InlineKeyboardButton('♻️ Help ♻️', callback_data='help'),
             InlineKeyboardButton('🌷Join my group', url='https://t.me/Ms_458'),
             InlineKeyboardButton('♻️ About ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ Subscribe my YouTube channel  ✅', url='https://youtube.com/channel/UCPaHDqWf3D3w2nxb8p3sr4A')
+            InlineKeyboardButton('✅ Subscribe my YouTube channel  ✅', url='https://youtube.com/channel/UCwiwEnbqHOSUXoEkvKCY3AQ')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
@@ -98,14 +98,14 @@ async def start(client, message):
             InlineKeyboardButton('✳️ Add Me To Your Groups ✳️', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('💠 CHANNEL 💠', url='https://t.me/Ms_458'),
-            InlineKeyboardButton('☎️ CONTACT ME', url='https://t.me/Ms_458'),
+            InlineKeyboardButton('☎️ CONTACT ME', url='https://t.me/MaHi_458'),
             InlineKeyboardButton('💠 UPDATES 💠', url='https://t.me/Ms_458')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('🌷Join my group', url='https://t.me/Ms_458'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
             ],[
-            InlineKeyboardButton('✅ Subscribe my YouTube channel  ✅', url='https://youtube.com/channel/UCPaHDqWf3D3w2nxb8p3sr4A')
+            InlineKeyboardButton('✅ Subscribe my YouTube channel  ✅', url='https://youtube.com/channel/UCwiwEnbqHOSUXoEkvKCY3AQ')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
