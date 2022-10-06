@@ -1,7 +1,7 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Maheshbots/file-filter-botv4 /file-filter-botv4
+  git clone https://github.com/Maheshbots/file-filter-botv4 hot.git /file-filter-botv4
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
   git clone $UPSTREAM_REPO /file-filter-botv4
