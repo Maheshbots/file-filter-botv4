@@ -114,4 +114,4 @@ I'm ⚡️ Powerful Auto-Filter Bot...
 Its Easy To Use Me; Just Add Me To Your Group As Admin, Thats All, i will Provide Movies There...😎
 ⚠️ More Help Check Help Button Below
 
-©️Mantained Bʏ  @sahid_malik</b>"""
+©️MS.UPDATES  @Mahi_458</b>"""
